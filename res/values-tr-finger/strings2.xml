@@ -15,7 +15,5 @@
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="create_playlist_create_text_prompt">"Şarkı listesi adı"</string>
-    <string name="rename_playlist_same_prompt">"\"<xliff:g id="PLAYLIST">%s</xliff:g>\" listesini şu şekilde yeniden adlandır:"</string>
-    <string name="rename_playlist_diff_prompt">"\"<xliff:g id="PLAYLIST">%s</xliff:g>\" listesini şu şekilde yeniden adlandır:"</string>
+    <string name="notification_artist_album">"<xliff:g id="ALBUM">%2$s</xliff:g>"\n"<xliff:g id="ARTIST">%1$s</xliff:g>"</string>
 </resources>
