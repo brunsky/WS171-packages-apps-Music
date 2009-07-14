@@ -28,8 +28,8 @@
   </plurals>
     <string name="goto_start">"Biblioteca"</string>
     <string name="goto_playback">"Reprodução"</string>
-    <string name="party_shuffle">"Lista·aleatória"</string>
-    <string name="party_shuffle_off">"Lista·aleatória·desactivada"</string>
+    <string name="party_shuffle">"Lista aleatória"</string>
+    <string name="party_shuffle_off">"Lista aleatória desactivada"</string>
     <string name="delete_item">"Eliminar"</string>
     <string name="shuffle_all">"Reproduzir todas aleatoriamente"</string>
     <string name="play_all">"Reproduzir todas"</string>
