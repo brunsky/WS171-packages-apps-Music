@@ -77,9 +77,9 @@
     <string name="unknown_album_name">"未知专辑"</string>
     <string name="shuffle_on_notif">"随机播放已打开。"</string>
     <string name="shuffle_off_notif">"随机播放已关闭。"</string>
-    <string name="repeat_off_notif">"重复已关闭。"</string>
+    <string name="repeat_off_notif">"重复播放已关闭。"</string>
     <string name="repeat_current_notif">"重复当前歌曲。"</string>
-    <string name="repeat_all_notif">"重复所有歌曲。"</string>
+    <string name="repeat_all_notif">"重复播放所有歌曲。"</string>
     <string name="ringtone_menu">"用作手机铃声"</string>
     <string name="ringtone_menu_short">"用作铃声"</string>
     <string name="ringtone_set">"已将“%s”设置为手机铃声。"</string>

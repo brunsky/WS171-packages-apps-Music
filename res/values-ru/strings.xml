@@ -80,8 +80,8 @@
     <string name="repeat_off_notif">"Режим повторного воспроизведения отключен."</string>
     <string name="repeat_current_notif">"Повторение текущей композиции."</string>
     <string name="repeat_all_notif">"Повтор всех композиций."</string>
-    <string name="ringtone_menu">"Использовать как мелодию звонка телефона"</string>
-    <string name="ringtone_menu_short">"Использовать как мелодию звонка"</string>
+    <string name="ringtone_menu">"Сделать мелодией звонка"</string>
+    <string name="ringtone_menu_short">"Сделать мелодией звонка"</string>
     <string name="ringtone_set">"Композиция \"%s\" установлена в качестве мелодии звонка."</string>
     <string name="play_selection">"Воспроизвести"</string>
     <string name="add_to_playlist">"Добавить в плейлист"</string>
@@ -108,9 +108,9 @@
     <item>"7 недель"</item>
     <item>"8 недель"</item>
     <item>"9 недель"</item>
-    <item>"10 недель"</item>
-    <item>"11 недель"</item>
-    <item>"12 недель"</item>
+    <item>"10 нед."</item>
+    <item>"11 нед."</item>
+    <item>"12 нед."</item>
   </string-array>
     <string name="weekpicker_set">"Готово"</string>
     <string name="weekpicker_title">"Установить время"</string>

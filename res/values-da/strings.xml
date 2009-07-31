@@ -49,8 +49,8 @@
     <string name="albums_title">"Albummer"</string>
     <string name="tracks_menu">"Sange"</string>
     <string name="tracks_title">"Sange"</string>
-    <string name="playlists_menu">"Afspilningslister"</string>
-    <string name="playlists_title">"Afspilningslister"</string>
+    <string name="playlists_menu">"Afspiln.liste"</string>
+    <string name="playlists_title">"Afspiln.liste"</string>
     <string name="videos_title">"Videoer"</string>
     <string name="all_title">"Alle medier"</string>
     <string name="browse_menu">"Kunstnere"</string>

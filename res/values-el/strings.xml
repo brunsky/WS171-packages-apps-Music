@@ -28,10 +28,10 @@
   </plurals>
     <string name="goto_start">"Βιβλιοθήκη"</string>
     <string name="goto_playback">"Αναπαραγωγή"</string>
-    <string name="party_shuffle">"Πάρτι - τυχαία αναπαραγωγή"</string>
+    <string name="party_shuffle">"Πάρτι – τυχ.αναπαρ."</string>
     <string name="party_shuffle_off">"Απενεργοποίηση λειτουργίας \"πάρτι - τυχαία αναπαραγωγή\""</string>
     <string name="delete_item">"Διαγραφή"</string>
-    <string name="shuffle_all">"Τυχαία αναπαραγωγή όλων"</string>
+    <string name="shuffle_all">"Τυχ.αναπαρ.όλων"</string>
     <string name="play_all">"Αναπαραγωγή όλων"</string>
     <string name="delete_artist_desc">"Όλα τα τραγούδια από <xliff:g id="ARTIST">%s</xliff:g> θα διαγραφούν οριστικά από την κάρτα SD."</string>
     <string name="delete_album_desc">"Ολόκληρο το άλμπουμ \"<xliff:g id="ALBUM">%s</xliff:g>\" θα διαγραφεί οριστικά από την κάρτα SD."</string>
@@ -84,7 +84,7 @@
     <string name="ringtone_menu_short">"Χρήση ως ήχος κλήσης"</string>
     <string name="ringtone_set">"Ορισμός του \"%s\" ως ήχος κλήσης τηλεφώνου."</string>
     <string name="play_selection">"Αναπαραγωγή"</string>
-    <string name="add_to_playlist">"Προσθήκη στη λίστα αναπαραγωγής"</string>
+    <string name="add_to_playlist">"Προσθ.στη λίστα αναπαρ."</string>
     <string name="queue">"Τρέχουσα λίστα αναπαραγωγής"</string>
     <string name="new_playlist">"Νέο"</string>
     <string name="new_playlist_name_template">"Νέα λίστα αναπαραγωγής <xliff:g id="NUMBER">%d</xliff:g>"</string>
@@ -93,7 +93,7 @@
     <item quantity="other">"%d τραγούδια προστέθηκαν στη λίστα αναπαραγωγής."</item>
   </plurals>
     <string name="emptyplaylist">"Η λίστα αναπαραγωγής που επιλέξατε είναι κενή."</string>
-    <string name="create_playlist_create_text">"Αποθήκευση"</string>
+    <string name="create_playlist_create_text">"Αποθ/ση"</string>
     <string name="create_playlist_overwrite_text">"Αντικατάσταση"</string>
     <string name="service_start_error_title">"Πρόβλημα αναπαραγωγής"</string>
     <string name="service_start_error_msg">"Λυπούμαστε, δεν είναι δυνατή η αναπαραγωγή του τραγουδιού."</string>
@@ -112,10 +112,10 @@
     <item>"11 εβδομάδες"</item>
     <item>"12 εβδομάδες"</item>
   </string-array>
-    <string name="weekpicker_set">"Ολοκληρώθηκε"</string>
+    <string name="weekpicker_set">"Τέλος"</string>
     <string name="weekpicker_title">"Ρύθμιση ώρας"</string>
-    <string name="save_as_playlist">"Αποθήκευση ως λίστα αναπαραγωγής"</string>
-    <string name="clear_playlist">"Εκκαθάριση λίστας αναπαραγωγής"</string>
+    <string name="save_as_playlist">"Αποθ.ως λίστα αναπ."</string>
+    <string name="clear_playlist">"Εκκαθ.λίστ.αναπαρ."</string>
     <string name="musicbrowserlabel">"Μουσική"</string>
     <string name="musicshortcutlabel">"Λίστα αναπαραγωγής μουσικής"</string>
     <string name="mediaplaybacklabel">"Μουσική"</string>

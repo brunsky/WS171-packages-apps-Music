@@ -28,7 +28,7 @@
   </plurals>
     <string name="goto_start">"Kitaplık"</string>
     <string name="goto_playback">"Yürüt"</string>
-    <string name="party_shuffle">"Karışık albüm oluşturma"</string>
+    <string name="party_shuffle">"Karışık albüm oluştur"</string>
     <string name="party_shuffle_off">"Karışık albüm oluşturma kapalı"</string>
     <string name="delete_item">"Sil"</string>
     <string name="shuffle_all">"Tümünü karıştır"</string>
