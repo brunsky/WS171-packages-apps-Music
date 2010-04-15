@@ -80,9 +80,9 @@
     <string name="repeat_off_notif">"重复播放已关闭。"</string>
     <string name="repeat_current_notif">"重复当前歌曲。"</string>
     <string name="repeat_all_notif">"重复播放所有歌曲。"</string>
-    <string name="ringtone_menu">"用作手机铃声"</string>
+    <string name="ringtone_menu">"设成铃声"</string>
     <string name="ringtone_menu_short">"用作铃声"</string>
-    <string name="ringtone_set">"已将“%s”设置为手机铃声。"</string>
+    <string name="ringtone_set">"已将「%s」设成铃声。"</string>
     <string name="play_selection">"播放"</string>
     <string name="add_to_playlist">"添加到播放列表"</string>
     <string name="queue">"当前播放列表"</string>

@@ -82,7 +82,7 @@
     <string name="repeat_all_notif">"Lecture en boucle de toutes les chansons"</string>
     <string name="ringtone_menu">"Utiliser comme sonnerie"</string>
     <string name="ringtone_menu_short">"Définir comme sonnerie"</string>
-    <string name="ringtone_set">"\"%s\" a été défini comme sonnerie."</string>
+    <string name="ringtone_set">"\"%s\" Utiliser comme sonnerie."</string>
     <string name="play_selection">"Lire"</string>
     <string name="add_to_playlist">"Ajouter à la playlist"</string>
     <string name="queue">"Playlist actuelle"</string>

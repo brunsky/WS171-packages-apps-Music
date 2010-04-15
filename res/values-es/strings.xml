@@ -80,9 +80,9 @@
     <string name="repeat_off_notif">"La repetición está desactivada."</string>
     <string name="repeat_current_notif">"Repitiendo canción actual..."</string>
     <string name="repeat_all_notif">"Repitiendo todas las canciones..."</string>
-    <string name="ringtone_menu">"Utilizar como tono del teléfono"</string>
+    <string name="ringtone_menu">"Usar como tono de llamada."</string>
     <string name="ringtone_menu_short">"Utilizar como tono"</string>
-    <string name="ringtone_set">"Se ha establecido \"%s\" como tono del teléfono."</string>
+    <string name="ringtone_set">"\"%s\" Usar como tono de llamada."</string>
     <string name="play_selection">"Reproducir"</string>
     <string name="add_to_playlist">"Añadir a lista de reproducción"</string>
     <string name="queue">"Lista de reproducción actual"</string>

@@ -167,11 +167,11 @@
     <!-- Toast after turning repeat all on -->
     <string name="repeat_all_notif">Repeating all songs.</string>
     <!-- Individual song context menu item -->
-    <string name="ringtone_menu">Use as phone ringtone</string>
+    <string name="ringtone_menu">Set as ringtone</string>
     <!-- Menu item -->
     <string name="ringtone_menu_short">Use as ringtone</string>
     <!-- Toast after setting a song as phone ringtone -->
-    <string name="ringtone_set">\"%s\" set as phone ringtone.</string>
+    <string name="ringtone_set">\"%s\" Set as ringtone.</string>
     <!-- Context menu item -->
     <string name="play_selection">Play</string>
     <!-- Context menu item -->

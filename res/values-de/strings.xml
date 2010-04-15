@@ -80,9 +80,9 @@
     <string name="repeat_off_notif">"Wiederholung ist deaktiviert."</string>
     <string name="repeat_current_notif">"Aktueller Titel wird wiederholt."</string>
     <string name="repeat_all_notif">"Alle Titel werden wiederholt."</string>
-    <string name="ringtone_menu">"Als Telefonklingelton verwenden"</string>
+    <string name="ringtone_menu">"Ein Klingelton benutzen"</string>
     <string name="ringtone_menu_short">"Als Klingelton verwenden"</string>
-    <string name="ringtone_set">"\"%s\" als Telefonklingelton eingestellt"</string>
+    <string name="ringtone_set">"\"%s\" Ein Klingelton benutzen"</string>
     <string name="play_selection">"Wiedergeben"</string>
     <string name="add_to_playlist">"Zur Playlist hinzufügen"</string>
     <string name="queue">"Aktuelle Playlist"</string>
